@@ -1,0 +1,10 @@
+Cookies are small data files that are stored on your computer from a web page. 
+Whenever you close a webpage, the connection would usually end so all the information that you entered the website would be gone, like your username or password for that webpage.
+The data from the page would be stored into cookies allowing the webpage to remember information that was entered in the past, ex: autofill usernames and passwords. 
+In favor of cookies
+•	Allow for a better ease-of-use since you wouldn’t need to retype all of your information every time you visit a site.
+•	Since they store information about you, it allows some sites to tailor content to your liking.
+Against cookies 
+•	Websites have access to your personal data and may be an invasion of your privacy.
+•	Issue of security since the data stored in the site could be accessed by anyone.
+In my opinion, Cookies as a technology are ethical but they most certainly can be manipulated in many unethical ways. My biggest concern is that many ignorant users of the web may not be educated about cookies and may fall vicitim to getting their private information breached
